@@ -1,0 +1,49 @@
+{
+    "_comment": "---------------------------------------- Platforms en_us.json Localization ---------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+    "_comment": "msg entries can span multiple lines, use <br> to indicate a line break.",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.platforms": "Piattaforme",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "info.platforms.base.txt": "§6Base:§7§o",
+    "info.platforms.addon.txt": "§6Rotaia:§7§o",
+    "info.platforms.wrench.tooltip.txt": "mostra la guida di piazzamento",
+    "info.platforms.wrench.tooltip.msg": "La guida di piazzamento viene mostrata<br>quando impugni la chiave inglese nella mano secondaria<br>e la piattaforma nella mano principale",
+
+    "_comment": "------------------------------------------------------ GUI -------------------------------------------------------!",
+    "gui.platformer.slot.storage.info": "Magazzino; usato per conservare i materiali per la creazione.",
+    "gui.platformer.slot.craft.info": "Risultato creazione; se i materiali necessari sono disponibili clicca qui per creare.",
+    "gui.platformer.slot.decon.info": "Decostruzione; le piattaforme possono essere suddivise qui. La dimensione dello stack deve essere uguale o superiore all'importo ricevuto durante la creazione.",
+    "gui.platformer.slot.buffer.info": "Buffer di uscita; utilizzato come deposito temporaneo per l'automazione. Questo deve essere vuoto prima di poterne creare altri.",
+    "gui.platformer.slot.material.info": "Selezione materiale; definisce l'aspetto e il materiale usato.",
+    "gui.platformer.button.select.info": "Selezione piattaforma; alterna i vari tipi di piattaforma disponibili.",
+    "gui.platformer.preview.info": "Anteprima; mostra il prodotto finale.",
+    "gui.platformer.basic.txt": "Stoccaggio, buffer e creazione",
+    "gui.platformer.output.txt": "Buffer & Creazione",
+    "gui.platformer.decon.txt": "Decostruzione In/Out",
+    "gui.platformer.storage.txt": "Stoccaggio In/Out",
+
+    "gui.platform_select.back.txt": "§7§lIndietro:§r Mouse sinistro / Scorri su",
+    "gui.platform_select.next.txt": "§7§lAvanti:§r Mouse destro / Scorri giù",
+    "gui.platform_select.first.txt": "§7§lScelta iniziale:§r Spazio",
+    "gui.platform_select.save.txt": "§7§lSeleziona:§r Invio / Mouse destro",
+
+    "_comment": "---------------------------------------------------- INVENTORY ---------------------------------------------------!",
+    "inv.platformer": "PlatFormer",
+    "inv.platformer.output": "PlatFormer Generatore",
+    "inv.platformer.deconstruct": "PlatFormer Decostruttore",
+    "inv.platformer.storage": "Platformer Magazzino",
+
+    "_comment": "-------------------------------------------------- ITEMS/BLOCKS --------------------------------------------------!",
+    "block.platforms.flat": "Piattaforma",
+    "block.platforms.ramp": "Rampa",
+    "block.platforms.floor": "Pavimento",
+    "block.platforms.frame": "Telaio",
+    "block.platforms.rise": "Salita",
+    "block.platforms.rail": "Corrimano",
+    "block.platforms.platformer": "PlatFormer",
+
+    "item.platforms.wrench": "Chiave inglese"
+}
